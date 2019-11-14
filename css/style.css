@@ -175,3 +175,6 @@ body{
 	background-color: #303540;
 	border-bottom: 1px solid rgba(255,255,255,.25);
 }
+.foot-links{
+	font-size:12px;
+}

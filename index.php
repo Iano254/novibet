@@ -24,6 +24,7 @@
 	    		<div id="side-menu-wrapper" class="shadow-sm">
 	    			<?php include('components/sidenav.php'); ?>
 	    		</div>
+	    		<div style="height: 10px;"></div>
 	    		<div class="shadow-sm" style="border-bottom:1px solid rgba(255,255,255,.25); padding:10px; font-weight:bold; font-size:13px;">Categories</div>
 	    		<div id="side-menu-wrapper" class="shadow-sm">
 	    			<?php include('components/sidenav.php'); ?>
@@ -49,6 +50,10 @@
 		<?php include('components/registermodal.php');?>
 
 	</div>
+
+	<footer style="background-color: #4b5160;">
+		<?php include('components/footer.php'); ?>
+	</footer>
     
 
     <!-- Optional JavaScript -->
