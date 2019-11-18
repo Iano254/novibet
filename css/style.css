@@ -178,3 +178,37 @@ body{
 .foot-links{
 	font-size:12px;
 }
+
+.more-markets .accordion .card{
+	border-radius: 0px!important;
+
+}
+.more-markets .accordion .card-header{
+	border:0px!important;
+	background-color: #303540;
+	padding:10px;
+	color: white!important;
+}
+.more-markets .accordion .card{
+	border:0px!important;
+}
+.more-markets .accordion .card .btn{
+	padding:0px!important;
+}
+.more-markets .accordion .card .btn-link{
+	color: white!important;
+	font-size:13px;
+	line-height: 13px;
+	font-weight: bold;
+}
+.more-markets .accordion .card .btn-link:hover{
+	color: white!important;
+	font-size:13px;
+	line-height: 13px;
+	font-weight: bold;
+	text-decoration: none!important;
+}
+.more-markets .accordion .card .odd-selector{
+		padding:10px 15px!important;
+		margin-right: 10px;
+}
